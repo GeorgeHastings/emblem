@@ -8,15 +8,19 @@ Demo: http://codepen.io/georgehastings/full/akZxaz/
 
 Let's say I have an element with a class of "emblem" and some text in it.
 
-```
+```html
 <div class="emblem">Hello World</div>
 ```
+
+
 
 You initialize an emblem by passing a class or ID to the init() function.
 
 ```javascript
 Emblem.init('.emblem');
 ```
+
+
 
 That's it. Emblem will grab the text (has to be a string) and rerender it. 
 
