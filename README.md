@@ -23,5 +23,5 @@ That's it. Emblem will grab the text (has to be a string) and rerender it.
 You can also pass in a string if you don't want to use text from your HTML. 
 
 ```javascript
-Emblem.init('.emblem', 'Hello World);
+Emblem.init('.emblem', 'Hello World');
 ```
