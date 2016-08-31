@@ -6,7 +6,13 @@ Demo: http://codepen.io/georgehastings/full/akZxaz/
 
 Usage:
 
-You initialize an emblem by passing a class or ID to the init() function. Let's say I have an element with a class of "emblem" with some text in it.
+Let's say I have an element with a class of "emblem" and some text in it.
+
+```
+<div class="emblem">Hello World</div>
+```
+
+You initialize an emblem by passing a class or ID to the init() function.
 
 ```
 Emblem.init('.emblem');
