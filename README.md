@@ -1,4 +1,4 @@
-# EmblemJS
+# Emblem
 
 A small zero dependency plugin for creating text wrapped around a circle.
 
