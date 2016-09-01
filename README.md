@@ -14,7 +14,7 @@ Let's say I have an element with a class of "emblem" and some text in it.
 
 
 
-You initialize an emblem by passing a class or ID to the init() function.
+You initialize an emblem by passing a class or ID to the init() function. If using a class, make sure only one instance exists on the page.
 
 ```javascript
 Emblem.init('.emblem');
