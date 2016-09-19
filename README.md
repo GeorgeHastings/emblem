@@ -29,3 +29,5 @@ You can also pass in a string if you don't want to use text from your HTML.
 ```javascript
 Emblem.init('.emblem', 'Hello World');
 ```
+
+*Not working? Make sure to check out the css in the demo.
