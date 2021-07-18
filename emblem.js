@@ -1,7 +1,7 @@
 var Emblem = {
   init: function(el, str) {
     var element = document.querySelector(el);
-    var text = str ? str : element.innerHTML;
+    var text = str ? str : element.innerText;
     element.innerHTML = '';
     for (var i = 0; i < text.length; i++) {
       var letter = text[i];
